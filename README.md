@@ -1,6 +1,9 @@
  一个自定义的UIAlertView，可以在修改样式的UIAlertView，其中还有一个分类，在list无数据的时候提示使用，非常方便
 
 一个自定义的UIAlertView，可以在修改样式的UIAlertView，其中还有一个分类，在list无数据的时候提示使用，非常方便。
+
+
+
 1.bsy_Window的用法：导入#import "bsy_Window.h"
 - (void)viewDidLoad {
     [super viewDidLoad];
